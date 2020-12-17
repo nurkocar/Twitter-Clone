@@ -1,10 +1,7 @@
-import React from 'react';
-import LayoutExtra from './LayoutExtra';
-import LayoutMain from './LayoutMain';
-import LayoutSidebar from './LayoutSidebar';
+import React from "react";
 
-const Layout = () => {
-    return <div></div>;
+const LayoutSidebar = () => {
+  return <div>LayoutSidebar</div>;
 };
 
-export default Layout;
+export default LayoutSidebar;
